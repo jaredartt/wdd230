@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400;1,700&display=swap');
+
+h1 {
+    font-family: Roboto;
+}
+
+h2, h3, h4, h5 {
+    font-family: Roboto;
+    padding-left: 25px;
+    color: rgb(65, 107, 89);
+}
+
+p, ul {
+    font-family: Roboto;
+}
+
+.box {
+    width: 50%;
+    border: 15px solid rgb(116, 204, 167);
+    padding: 20px;
+    margin: 15px;
+    border-radius: 30px;
+    display: grid;
+}
+
+.box2 {
+    width: 50%;
+    border: 15px solid rgb(116, 204, 167);
+    padding: 20px;
+    margin: 15px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.column1 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.column2 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#profile_pic {
+    border-radius: 10px;
+}
+
+.lesson_list {
+    padding-left: 35px;
+}
+
+.mini_text {
+    color: rgb(65, 107, 89);
+    font-size: 0.8em;
+}
