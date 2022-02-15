@@ -1,0 +1,37 @@
+@media only screen and (max-width: 900px) {
+
+    .header_box h1 {
+        font-size: 2.5em;
+    }
+
+    .header_box h2 {
+        font-size: 1.5em;
+    }
+
+    .main_grid {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .column1 {
+        border-radius: 15px;
+    }
+    .column2 {
+        border-radius: 15px;
+    }
+    .column3 {
+        border-radius: 15px;
+        grid-column-start: 1;
+        grid-column-end: 3;
+    }
+
+    .column1 h1 {
+        font-size: 1.5em;
+    }
+    .column2 h1 {
+        font-size: 1.5em;
+    }
+    .column3 h1 {
+        font-size: 1.5em;
+    }
+
+}

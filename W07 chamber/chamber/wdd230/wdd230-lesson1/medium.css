@@ -1,0 +1,15 @@
+@media only screen and (min-width: 50em) {
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2, h3, h4, h5 {
+    font-size: 1.5rem;
+  }
+
+  #profile_pic {
+    width: 200px;
+  }
+
+}
