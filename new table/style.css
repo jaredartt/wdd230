@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap');
+
+:root {
+	--back: rgb(114, 179, 173);
+    --back2: rgb(111, 149, 192);
+    --foredark: hsla(0,0%,10%,1);
+	--forelight: rgb(0, 0, 0);
+	--borderlight: rgb(206, 206, 206);
+	--shadow: rgb(88, 136, 158);
+	--zebra: rgb(192, 228, 211);
+}
+
+table {
+	margin: 10px auto;
+	box-shadow: 10px 10px 20px var(--shadow);
+	border-collapse: collapse;
+    background: rgb(240, 240, 240)
+}
+
+tr:first-child th {
+	background-color: var(--back);
+	color: var(--forelight);
+}
+
+th, td {
+	padding: 7px 15px;
+	border: 1px solid var(--borderlight);
+}
+
+th {
+	background-color: var(--back2);
+}
+
+td {
+	text-align: center;
+}
+
+tbody tr:nth-child(even) {
+	background-color: var(--zebra);
+}
+
+* {
+    font-family: "Ubuntu", sans-serif;
+    text-align: center;
+}
+
+#table_title {
+    font-size: 1.5rem;
+    color: black;
+    font-weight: 500;
+}
+
+#heading {
+    color: white;
+    font-weight: 500;
+}
+
+#august_goal {
+    background-color: rgb(111, 149, 192);
+    color: white;
+}
+
+#table_footer {
+    background-color: rgb(114, 179, 179);
+    font-size: 0.75rem;
+}
+
+table {
+	width: 100%;
+}
