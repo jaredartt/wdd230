@@ -1,0 +1,15 @@
+@media screen and (min-width: 901px) {
+
+    .cards {
+        grid-template: auto / repeat(3, minmax(auto, 1fr));
+    }
+
+    h1 {
+        padding: 20px 100px;
+        font-size: 4rem;
+    }
+
+    main {
+        padding: 2rem;
+    }
+}

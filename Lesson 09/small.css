@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&family=Ubuntu:wght@300;400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: #FDD692;
+}
+
+h1{
+    font-family: 'Mulish', sans-serif;
+    margin: 0px;
+
+    color: #444;
+    font-size: 2rem;
+    text-align: center;
+    padding: 30px;
+}
+
+.cards section p, h2{
+    text-align: center;
+    color:#754F44;  
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+.cards{
+    display: grid;
+    grid-template: auto / repeat(1, minmax(auto, 1fr));
+    grid-gap: 1rem;
+
+    margin: auto;
+    background-color: #FBFFB9;
+    border-radius: 30px;
+    padding: 1.5rem;
+ 
+}
+
+.cards section img{
+    display: block;
+    margin: auto;
+    padding: 15px;
+    width: 250px;
+    
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+footer{
+    text-align: center;
+    margin-bottom: 25px;
+}
