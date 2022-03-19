@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chiclana Chamber</title>
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link href="css/normalize.css" rel="stylesheet">
+    <!-- phone-default -->
+    <link href="css/small.css" rel="stylesheet">
+    <!-- enhance-tablet -->
+    <link href="css/medium.css" rel="stylesheet">
+    <!-- enhance-desktop -->
+    <link href="css/large.css" rel="stylesheet">
+    <script defer src="js/weatherapi.js"></script>
+</head>
+<body>
+    <header>
+
+        <div class="before_js">
+            <div class="logo_and_name">
+                <picture>
+                    <source srcset="images/logo400.webp" media="(min-width: 500px) and (max-width: 799px)">
+                    <source srcset="images/logo600.webp" media="(min-width: 800px)">
+                    <img id="logo" alt="logo" src="images/logo250.webp">
+                </picture>
+                <div class="only_name">
+                    <h1>Chiclana Empowering</h1>
+                    <p>Chamber of Commerce</p>
+                </div>
+            </div>
+            <nav>
+                <button id="hamburgerBtn"><span>&#9776;</span><span>X</span></button>
+                <ul id="primaryNav">
+                    <li><a class="active" href="index.html">Home</a></li>
+                    <li><a href="discover.html">Discover</a></li>
+                    <li><a href="directory.html">Directory</a></li>
+                    <li><a href="join.html">Join</a></li>
+                    <li><a href="contact.html">Contact</a></li>  
+                </ul>
+            </nav>
+            <div class="sm">
+                <picture>
+                    <source srcset="images/fb_icon50.webp" media="(min-width: 500px)">
+                    <img id="sm1" src="images/fb_icon30.webp" alt="facebook link">
+                </picture>
+                <picture>
+                    <source srcset="images/in_icon50.webp" media="(min-width: 500px)">
+                    <img id="sm2" src="images/in_icon30.webp" alt="facebook link">
+                </picture>
+            </div>
+        </div>
+        
+        <div class="date">
+            <aside></aside>
+        </div>
+        
+    </header>
+    
+    
+    
+    <main class="main_grid">
+
+        <div id="greet_meet">
+            <p>🤝🏼 Come join us for the chamber meet and greet Wednesday at 7:00 p.m</p>
+        </div>
+        
+        <div class="father_grid">
+            
+            <div class="event">
+                <h2>TechTalk: Hiring and Retention Post-2022</h2>
+                <p>Join us in an increible workshop by Marcos Faura, the leader of Chiclana Chamber of Commerce. Learn how to be better at hiring people for your start-up company, and skyrocket your projects. </p>
+                <button>Learn more</button>
+            </div>
+
+            <div class="weather">
+                <h2>Weather</h2>
+                <picture>
+                    <p>The current temperature in Chiclana, Spain is <span id="current-temp"></span> &deg;C</p>
+                    <figure>
+                        <img src="" alt="" id="weathericon" />
+                        <figcaption></figcaption>
+                    </figure>
+            </div>
+            
+            <div class="join">
+                <h2>Join</h2>
+                <p>Join our Chamber of Commerce now, and get your unique Chiclana Chamber t-shirt! Press the button below to learn more.</p>
+                <button>Learn more</button>
+            </div>
+            
+            <div class="hero">
+                <h2>Join us now!</h2>
+                <picture>
+                    <source srcset="images/hero1500.webp" media="(min-width: 800px)">
+                    <source srcset="images/hero750.webp" media="(min-width: 500px)">
+                    <img src="images/hero375.webp" alt="hero image" style="width: 100%">
+                </picture>
+                <p>Let's work together! Learn more by clicking the button below</p>
+                <button>Learn more</button>
+            </div>
+            <div class="news">
+                <h2>News</h2>
+                <p>We're in the process of constructing a new bridge between Fuente Amarga and Los Clavos, so everyone can have the opportunity to pass from one place to another in a glimpse.</p>
+                <button>Learn more</button>
+            </div>
+            
+            <div class="spotlights">
+                <div class="sp1">
+                    <h2>Spotlight1</h2>
+                    <p>Look at these photos that Carlos Moreno has sent us about El Río Iro!</p>
+                    <button>Learn more</button>
+                </div>
+                <div class="sp2">
+                    <h2>Spotlight2</h2>
+                    <p>The Mayor José María Román has stated: Chiclana is in the beginning of a new era</p>
+                    <button>Learn more</button>
+                </div>
+                <div class="sp3">
+                    <h2>Spotlight3</h2>
+                    <p>Train of Los Clavos is 3 years old today, let's celebrate it!</p>
+                    <button>Learn more</button>
+                </div>
+            </div>
+        </div>
+        
+    </main>
+    
+    
+    
+    <footer>
+        
+        <div class="box1_2">
+            <div class="box1">
+                <picture>
+                    <source srcset="images/logo400.webp" media="(min-width: 500px) and (max-width: 799px)">
+                    <source srcset="images/logo600.webp" media="(min-width: 800px)">
+                    <img id="logo2" alt="logo" src="images/logo250.webp">
+                </picture>
+                <div class="box1a">
+                    <p style="color: rgb(197, 230, 241); font-weight: bold; font-size: 1.4rem; margin-bottom: 10px;">Chiclana Empowering Chamber</p>
+                    <p>Camino del Guadalmesi, 8</p>
+                    <p>Chiclana de la Frontera, 11130 Spain</p>
+                </div>
+            </div>
+            
+            <div class="box2">
+                <p>info@chiclanachamber.org</p>
+                <a href="#" style="text-decoration: none; color: white">
+                    <div class="box2b">
+                        <picture>
+                            <source srcset="images/location40.webp" media="(min-width: 500px)">
+                            <img src="images/location30.webp" alt="location" style="width: 10px;">
+                        </picture>
+                        <p>Location Map</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+        
+        <hr>
+
+        <div class="box3">
+            <script>
+                var LastUpdated = document.lastModified;
+                document.writeln ("© 2021 Chiclana Empowering Chamber | Jared MartínezCádiz | WDD 230 Project | Last modification " + LastUpdated);
+            </script>
+        </div>
+
+    </footer>
+<script src="js/scripts.js"></script>
+<script src="js/windchill.js"></script>
+</body>
+</html>
