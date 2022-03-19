@@ -5,84 +5,96 @@
       "address": "Calle Reyes Católicos",
       "phone": "+34 603 61 64 46",
       "website": "https://www.academiatress.es",
-      "imageurl": "https://static.wixstatic.com/media/e3fcdd_1838708baf1b406ba2d77743d2b34feb~mv2.png/v1/fill/w_63,h_99,al_c,usm_0.66_1.00_0.01,enc_auto/e3fcdd_1838708baf1b406ba2d77743d2b34feb~mv2.png"
+      "imageurl": "https://static.wixstatic.com/media/e3fcdd_1838708baf1b406ba2d77743d2b34feb~mv2.png/v1/fill/w_63,h_99,al_c,usm_0.66_1.00_0.01,enc_auto/e3fcdd_1838708baf1b406ba2d77743d2b34feb~mv2.png",
+      "level": "gold"
     },
     {
       "name": "Chiclana Natural Sa",
       "address": "PLAZA DE ESPAÑA, S/N",
       "phone": "900925140",
       "website": "https://chiclananatural.com",
-      "imageurl": "https://chiclananatural.com/frontend/assets/img/logo-header.png"
+      "imageurl": "https://chiclananatural.com/frontend/assets/img/logo-header.png",
+      "level": "silver"
     },
     {
       "name": "Avila Fornell",
       "address": "CALLE FERNANDO DE MAGALLANES, 15",
       "phone": "956402972",
       "website": "https://www.mascotasavila.com",
-      "imageurl": "https://www.mascotasavila.com/img/mascotas-avila-logo-1584383692.jpg"
+      "imageurl": "https://www.mascotasavila.com/img/mascotas-avila-logo-1584383692.jpg",
+      "level": "gold"
     },
     {
       "name": "Novo Sancti Petri",
       "address": "AVENIDA OCTAVIO AUGUSTO (URB. NOVO SANCTI PETRI), S/N",
       "phone": "956496038",
       "website": "https://www.viamednovo.com",
-      "imageurl": "https://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/2416459ffd9e8078436384f1391ab97d_XL.jpg?t=20170201_165525"
+      "imageurl": "https://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/2416459ffd9e8078436384f1391ab97d_XL.jpg?t=20170201_165525",
+      "level": "silver"
     },
     {
       "name": "Fluidmecanica Sur",
       "address": "AVENIDA DEL MUEBLE, S/N",
       "phone": "956536592",
       "website": "https://fluidmecanicasur.es",
-      "imageurl": "https://empresite.eleconomista.es/uploadFiles/20110603204206_341888.JPG"
+      "imageurl": "https://empresite.eleconomista.es/uploadFiles/20110603204206_341888.JPG",
+      "level": "silver"
     },
     {
       "name": "Turbo Cadiz",
       "address": "CALLE PROGRESO (POL IND PELAGATOS), 17 - 19",
       "phone": "956407950",
       "website": "https://turbocadiz.com",
-      "imageurl": "https://d2kq0urxkarztv.cloudfront.net/559be050ce49b94a2d4363a0/575852/upload-c63c8bb0-7a5e-11e6-a637-1f7dba4bba43.png?w=1032"
+      "imageurl": "https://d2kq0urxkarztv.cloudfront.net/559be050ce49b94a2d4363a0/575852/upload-c63c8bb0-7a5e-11e6-a637-1f7dba4bba43.png?w=1032",
+      "level": "gold"
     },
     {
       "name": "Montajes Ipsus",
       "address": "CALLE TESON (POL INDUSTRIAL PELAGATOS), 21 - M6 28",
       "phone": "956546377",
       "website": "https://www.montajesipsus.com/empresa/",
-      "imageurl": "https://www.montajesipsus.com/wp-content/uploads/2019/06/logo_IPSUS_horizontal_web.png"
+      "imageurl": "https://www.montajesipsus.com/wp-content/uploads/2019/06/logo_IPSUS_horizontal_web.png",
+      "level": "gold"
     },
     {
       "name": "Montalban y Sanchez",
       "address": "Parque Comercial e Ind. URBISUR Av. de los Descubrimientos",
       "phone": "956534936",
       "website": "http://www.montalbanysanchez.com/es/",
-      "imageurl": "http://www.montalbanysanchez.com/themes/leo_koreni/img/logo-completo.svg"
+      "imageurl": "http://www.montalbanysanchez.com/themes/leo_koreni/img/logo-completo.svg",
+      "level": "gold"
     },
     {
       "name": "Famaluz",
       "address": "Pol. Ind. La Hoya Calle Los Mecánicos Nave 1",
       "phone": "956402749",
       "website": "https://www.famaluz.com",
-      "imageurl": "https://lh5.googleusercontent.com/p/AF1QipOusHqJ9Dovu-HAwnQn_HzAi7m9oAyXScuJvBLs=w600"
+      "imageurl": "https://lh5.googleusercontent.com/p/AF1QipOusHqJ9Dovu-HAwnQn_HzAi7m9oAyXScuJvBLs=w600",
+      "level": "gold"
     },
     {
       "name": "Pure Fitness",
       "address": "AVENIDA DE LA INDUSTRIA, 47",
       "phone": "956490125",
       "website": "https://www.purefitness.es",
-      "imageurl": "https://www.palco23.com/files/2020/20_fueradejuego/pure-fitness-fdj-948.jpg"
+      "imageurl": "https://www.palco23.com/files/2020/20_fueradejuego/pure-fitness-fdj-948.jpg",
+      "level": "silver"
     },
     {
       "name": "Cementerio Mancomunado",
       "address": "Carretera Chiclana-Medina Km 4,2",
       "phone": "956533696",
       "website": "https://www.cemabasa.com",
-      "imageurl": "https://www.cemabasa.com/assets/img/cemabasa/logo-cemabasa.png"
+      "imageurl": "https://www.cemabasa.com/assets/img/cemabasa/logo-cemabasa.png",
+      "level": "gold"
     },
     {
       "name": "Dragon Rojo",
       "address": "C/ Ajustadores Nº2 11130 Chiclana",
       "phone": "675469720",
       "website": "https://kungfudragonrojo.com",
-      "imageurl": "https://kungfudragonrojo.com/wp-content/uploads/2015/04/logo.png"
+      "imageurl": "https://kungfudragonrojo.com/wp-content/uploads/2015/04/logo.png",
+      "level": "gold"
     }
   ]
 }
