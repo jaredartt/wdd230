@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/large.css">
+    <link rel="stylesheet" href="css/medium.css">
+    <link rel="stylesheet" href="css/small.css">
+    <script defer src="js/menu.js"></script>
+    <script src="js/weatherapi.js"></script>
+    <script src="https://kit.fontawesome.com/7e5b2d153f.js"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            
+            <a href="index.html"><img src="images/logo.webp" alt="logo" id="logo"></a>
+            <button class="nav-toggle" aria-label="toggle menu">
+                <i class="fas fa-bars"></i>
+            </button>
+            <ul class="nav-menu">
+                <li><a id="active" href="index.html">Home</a></li>
+                <li><a href="temples.html">Temple</a></li>
+                <li><a href="reservation.html">Reservation</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+
+            <div class="socialmedia">
+                <a href="#"><img src="images/in_icon.webp" alt="link to instagram"></a>
+                <a href="#"><img src="images/fb_icon.webp" alt="link to facebook"></a>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <div class="banner">
+            <img src="images/banner_img.webp" alt="Web Banner">
+            <div class="inside_box">
+                <h1>A Haven of Comfort</h1>
+            </div>
+        </div>
+
+        <div id="weatherContainer">
+            <div id="iconsContainer">
+                <div class="icons">
+                    <p class="weather" id="day1"></p>
+                    <div class="image"><img src="#" class="imgClass" id="img1" alt="weather icon"></div>
+                    <p class="minValues" id="day1Min">Loading...</p>
+                    <p class="maxValues" id="day1Max">Loading...</p>
+                    <p class="humidity1">Humidity: </p>
+                </div>
+                <div class="icons">
+                    <p class="weather" id="day2"></p>
+                    <div class="image"><img src="#" class="imgClass" id="img2" alt="weather icon"></div>
+                    <p class="minValues" id="day2Min">Loading...</p>
+                    <p class="maxValues" id="day2Max">Loading...</p>
+                    <p class="humidity2">Humidity: </p>
+                </div>
+                <div class="icons">
+                    <p class="weather" id="day3"></p>
+                    <div class="image"><img src="#" class="imgClass" id="img3" alt="weather icon"></div>
+                    <p class="minValues" id="day3Min">Loading...</p>
+                    <p class="maxValues" id="day3Max">Loading...</p>
+                    <p class="humidity3">Humidity: </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="box1">
+            <div class="box1_son">
+                <h1>Enjoy a peaceful stay at<br>Temple Inn & Suites</h1>
+                <p>The Temple Inn & Suites is a hotel chain headquartered in Bethesda, that builds and manages specialized hotel accommodations near temple locations of The Church of Jesus Christ of Latter-day Saints around the world.<br><br>The owner-operated company caters to temple workers, patrons, and their families by providing specialized services and accommodations.</p>
+                <a class="cta_button"  href="reservation.html">Book now</a>
+            </div>
+            <img src="images/graphic_resource1.webp" alt="graphic resource" id="gr_1">
+        </div>
+        <img src="images/graphic_resource2.webp" alt="graphic resource" id="gr_2">
+        
+        <div class="box2">
+            <img src="images/madrid_temple.webp" alt="Madrid Temple">
+            <div class="box2_son">
+                <h1>Madrid Temple</h1>
+                <p>Situated in the neighborhood of Pavones, the Madrid Spain Temple was announced in 1993.<br>President Gordon B. Hinckley went to Spain to dedicate the Madrid Spain Temple and had his third visit with the King and Queen</p>
+                <a class="cta_button">Learn more</a>
+            </div>
+        </div>
+        
+        <div class="services_banner">
+            <img src="images/services_banner.webp" alt="Services Banner image">
+            <div class="inside_box">
+                <h1>Our Wonderful Services</h1>
+            </div>
+        </div>
+        
+        <div class="services_box">
+            <div class="kitchenette">
+                <img src="images/services/kitchenette.webp">
+                <div class="h1_overlay">
+                    <h1>Kitchenette Suites</h1>
+                </div>
+            </div>
+            <div class="family_history">
+                <img src="images/services/family_history.webp">
+                <div class="h1_overlay">
+                    <h1>Family History Center</h1>
+                </div>
+            </div>
+            <div class="lounge">
+                <img src="images/services/lounge.webp">
+                <div class="h1_overlay">
+                    <h1>Lounge</h1>
+                </div>
+            </div>
+            <div class="workout">
+                <img src="images/services/workout.webp">
+                <div class="h1_overlay">
+                    <h1>Workout Center & Indoor Pool</h1>
+                </div>
+            </div>
+            <div class="lunchrooms">
+                <img src="images/services/launchrooms.webp">
+                <div class="h1_overlay">
+                    <h1>Lunchrooms</h1>
+                </div>
+            </div>
+            <div class="playroom">
+                <img src="images/services/playroom.webp">
+                <div class="h1_overlay">
+                    <h1>Kids Playroom & Babysitting</h1>
+                </div>
+            </div>
+            <div class="more">
+                <img src="images/services/more.webp">
+                <div class="h1_overlay">
+                    <h1>& Much more</h1>
+                </div>
+            </div>
+        </div>
+
+        <div id="index_final_button"><a class="cta_button" href="reservation.html">Book now</a></div>
+        
+    </main>
+    
+    <footer>
+        <img src="images/logo.webp" alt="logo" id="logo">
+        <div class="footer_text">
+
+            <div class="footer_box">
+                <p>See us on <u><a href="https://www.google.maps.com/">Google Maps</a></u></p>
+                <img id="gr_small" src="images/graphic_resource_small.webp" alt="Graphic Resouce Small">
+                <p><u><a href="contact.html">Contact us</a></u></p>
+                <img id="gr_small" src="images/graphic_resource_small.webp" alt="Graphic Resouce Small">
+                <p>Follow us on</p><a href="#">
+
+                <div class="socialmedia">
+                    <a href="#"><img src="images/in_icon.webp" alt="link to instagram"></a>
+                    <a href="#"><img src="images/fb_icon.webp" alt="link to facebook"></a>
+                </div>
+            </div>
+
+            <div class="footer_box">
+                <p>© 2022 Temple Inn & Suites</p>
+                <p>4800 Montgomery Ln #300, Bethesda, MD 20814</p>
+                <p>OpenWeatherMap.org API Test</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
