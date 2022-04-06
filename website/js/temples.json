@@ -1,0 +1,44 @@
+{
+  "temples": [
+    {
+    "name": "Madrid Temple",
+    "address": "C. Templo, 2, 28030 Madrid",
+    "phone": "912 14 26 07",
+    "email": "madridtemple@lds.com",
+    "image": "https://i.pinimg.com/originals/82/4d/76/824d760894f3f0d1c668cd744179d0c2.jpg",
+    "history": "The Madrid Spain Temple, built in the Pavones neighborhood of Moratalaz, a district of Madrid, was announced in 1993. The temple in Madrid is a highly visible symbol of the church's presence in Spain. During the open house, over 100,000 community members and government officials toured the temple, including King Juan Carlos and Queen Sofía. LDS Church president Gordon B. Hinckley went to Spain to dedicate the Madrid Spain Temple and had his third visit with the King and Queen. During the visit, Hinckley presented them with a special gift created by well-known Spanish artists: a Lladró figurine of the Christus, modeled after the original by Bertel Thorvaldsen. Jose Lladro, president of the Lladro Company, had personally delivered the first five issues of the figurine to Hinckley at the temple site. One of the five figurines is now on permanent display in the temple foyer.",
+    "session": "Tuesday - Saturday, 7:00-14:00",
+    "closure": "Monday, 6 June 2022 - Monday, 15 August 2022. Saturday, 1 October 2022 (Limited Operations). Saturday, 24 December 2022. Saturday, 31 December 2022"
+    },
+    {
+    "name": "Boise Idaho Temple",
+    "address": "1211 S Cole Rd Boise ID 83709-1871 United States",
+    "phone": "(1) 208-322-4422",
+    "email": "boiseidahotemple@lds.com",
+    "image": "https://assets.ldscdn.org/29/8b/298bdc171826d2561184579b7f51521f36994836/boise_idaho_temple_sunshine.jpeg",
+    "history": "Church leaders discussed building a temple in the western part of Idaho as early as 1939. However, with the majority of church's membership in the eastern part of Idaho, the leaders decided against it and concentrated on building the Idaho Falls Idaho Temple. Forty-five years later, on March 31, 1982, church leaders announced that a temple would be built in the Boise area. The temple site is located near an exit from Interstate 84 and is very visible to those traveling along the highway and is also a visible landmark for pilots at Boise Airport.",
+    "session": "Tuesday - Saturday, 7:00-14:00",
+    "closure": "Monday, 2 May 2022 - Monday, 16 May 2022. Saturday, 1 October 2022. Monday, 10 October 2022 - Monday, 24 October 2022. Wednesday, 23 November 2022 (Limited Operations). Thursday, 24 November 2022. Saturday, 24 December 2022. Saturday, 31 December 2022 (Limited Operations)"
+    },
+    {
+    "name": "Houston Texas Temple",
+    "address": "15725 Champion Forest Dr Spring TX 77379-7036 United States",
+    "phone": "(1) 281-376-6804",
+    "email": "houstontexastemple@lds.com",
+    "image": "https://assets.ldscdn.org/7e/b1/7eb124b69bd8464c2b65501a40dfc749b359717d/houston_texas_temple_exterior.jpeg",
+    "history": "After the September 1997 announcement that the LDS Church would build a temple in Houston, the search began for an appropriate site. The site chosen formerly belonged to a developer unwilling to sell. Years earlier, however, the developer had gone through difficult financial times and had made a promise to God that if God would help him avoid financial ruin, he would someday pay God back. When the developer learned what was proposed to be built on his land, he decided to sell the land as his way of paying God back.",
+    "session": "Tuesday - Saturday, 7:00-14:00",
+    "closure": "Monday, 29 August 2022 - Monday, 19 September 2022. Saturday, 1 October 2022. Wednesday, 23 November 2022 (Limited Operations). Thursday, 24 November 2022. Saturday, 24 December 2022. Saturday, 31 December 2022 (Limited Operations)"
+    },
+    {
+    "name": "Kona Hawaii Temple",
+    "address": "75-230 Kalani St Kailua-Kona HI 96740-1833 United States",
+    "phone": "(1) 808-331-8504",
+    "email": "konahawaiitemple@lds.com",
+    "image": "https://assets.ldscdn.org/00/5d/005d5a23ba3590a1344c3339e804f674b8e2b6a6/kona_temple_lds.jpg",
+    "history": "The Kona Hawaii Temple was announced May 7, 1998,[2][3] with a groundbreaking ceremony presided over by John B. Dickson of the Seventy held less than a year later on March 13, 1999.[4] Approximately 1,200 people attended the groundbreaking ceremonies. Dickson, Donald L. Hallstrom, an area seventy, Hilo stake president John Sakamaki and Kona stake president Philip A. Harris each spoke at the ceremony. Dickson turned over the first shovelful of dirt, after which other onlookers, including many children, also participated.",
+    "session": "Tuesday - Saturday, 7:00-14:00",
+    "closure": "Saturday, 2 April 2022 - Monday, 30 May 2022 Saturday, 1 October 2022 - Monday, 17 October 2022 Wednesday, 23 November 2022. Thursday, 24 November 2022. Friday, 23 December 2022. Saturday, 24 December 2022. Friday, 30 December 2022. Saturday, 31 December 2022"
+    }
+  ]
+}
