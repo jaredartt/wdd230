@@ -1,4 +1,5 @@
 {
+  "temples": [
     {
     "name": "Madrid Temple",
     "address": "C. Templo, 2, 28030 Madrid",
@@ -39,4 +40,5 @@
     "session": "Tuesday - Saturday, 7:00-14:00",
     "closure": "Saturday, 2 April 2022 - Monday, 30 May 2022 Saturday, 1 October 2022 - Monday, 17 October 2022 Wednesday, 23 November 2022. Thursday, 24 November 2022. Friday, 23 December 2022. Saturday, 24 December 2022. Friday, 30 December 2022. Saturday, 31 December 2022"
     }
+  ]
 }
